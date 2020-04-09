@@ -167,3 +167,11 @@ div.card h1 {
     color: white;
     text-align: center;
 }
+
+div.header h7 {
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40pt;
+    color: white;
+}
