@@ -153,7 +153,7 @@ div.card h1 {
 }
 
 #hthree {
-   left: 40%;
+   left: 20%;
 }
 
 .discription {
@@ -168,10 +168,4 @@ div.card h1 {
     text-align: center;
 }
 
-div.contacttitle h7 {
-    margin-top: 10px;
-    text-align: center;
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 40pt;
-    color: white;
-}
+
