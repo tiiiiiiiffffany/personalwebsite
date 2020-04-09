@@ -1,0 +1,108 @@
+    body {
+        background-color: silver;
+    }
+    
+    nav {
+        background: #18eebc;
+        background: -webkit-linear-gradient(-68deg, #18eebc, #3ae8eb);
+        background: -o-linear-gradient(-68deg, #18eebc, #3ae8eb);
+        background: -moz-linear-gradient(-68deg, #18eebc, #3ae8eb);
+        background: linear-gradient(-68deg, #18eebc, #3ae8eb);
+    }
+    
+    a.navbar-brand {
+        color: white;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+    
+    ul.navbar-nav li.nav-item a.nav-link {
+        font-family: 'Josefin Sans', sans-serif;
+        color: white;
+    }
+    
+    #scrolltitle {
+        color: grey;
+    }
+    
+    div.words {
+        overflow: scroll;
+        height: 300px;
+        background-color: #0de6d7;
+        color: white;
+    }
+    
+    div.scrollspy {
+        font-family: 'Josefin Sans', sans-serif;
+        margin-top: 10px;
+        width: 100%;
+    }
+    
+    .nav {
+        color: #0de6d7;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+    
+    div.card {
+        background-color: silver;
+        border: 0;
+        left: 15%;
+    }
+    
+    div.card1 {
+        margin: 50px;
+    }
+    
+    div.card2 {
+        margin: 50px;
+    }
+    
+    div.card3 {
+        margin: 50px;
+    }
+    
+    div.card4 {
+        margin: 50px;
+    }
+    
+    div.card1 img {
+        height: 200px;
+    }
+    
+    div.card2 img {
+        height: 200px;
+    }
+    
+    div.card3 img {
+        height: 200px;
+    }
+    
+    div.card4 img {
+        height: 200px;
+    }
+    
+    div.card-body {
+        color: white;
+        overflow: hidden;
+        font-family: 'Josefin Sans', sans-serif;
+        background: rgb(100, 209, 228);
+        background: -webkit-linear-gradient(-68deg, #3ae8eb, #18eebc);
+        background: -o-linear-gradient(-68deg, #3ae8eb, #18eebc);
+        background: -moz-linear-gradient(-68deg, #3ae8eb, #18eebc);
+        background: linear-gradient(-68deg, #3ae8eb, #18eebc);
+    }
+    
+    footer {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 10pt;
+        color: black;
+    }
+    
+    .btn-primary {
+        background-color: rgb(8, 190, 223);
+        margin-bottom: 10px;
+    }
+    
+    .btn-primary:hover {
+        background-color: rgb(253, 249, 117);
+        color: silver;
+    }

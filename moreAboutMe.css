@@ -1,0 +1,68 @@
+body {
+    background-color: silver;
+}
+
+nav {
+    background: #18eebc;
+    background: -webkit-linear-gradient(-68deg, #18eebc, #3ae8eb);
+    background: -o-linear-gradient(-68deg, #18eebc, #3ae8eb);
+    background: -moz-linear-gradient(-68deg, #18eebc, #3ae8eb);
+    background: linear-gradient(-68deg, #18eebc, #3ae8eb);
+}
+
+a.navbar-brand {
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+ul.navbar-nav li.nav-item a.nav-link {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
+
+body div.header {
+    background: -webkit-linear-gradient(-68deg, #3ae8eb, #18eebc);
+    background: -o-linear-gradient(-68deg, #3ae8eb, #18eebc);
+    background: -moz-linear-gradient(-68deg, #3ae8eb, #18eebc);
+    background: linear-gradient(-68deg, #3ae8eb, #18eebc);
+    height: 100%;
+    margin: 0%;
+}
+
+div.header h {
+    margin-top: 0px;
+    margin-left: 600px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40pt;
+    color: #0de6d7;
+}
+
+div.header h1 {
+    margin-top: 10px;
+    margin-left: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40pt;
+    color: white;
+}
+
+div.header h2 {
+    margin-top: 10px;
+    margin-left: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30pt;
+    color: white;
+}
+
+div.header p {
+    margin-top: 60px;
+    margin-left: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15pt;
+    color: white;
+}
+
+footer {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 10pt;
+    color: black;
+}
