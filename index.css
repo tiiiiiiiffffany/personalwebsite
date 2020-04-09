@@ -95,6 +95,7 @@ div.card {
     background-color: silver;
     border: 0;
     margin: 0;
+    width: 100%;
 }
 
 div.card1 {
